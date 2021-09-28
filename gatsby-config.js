@@ -5,7 +5,7 @@ module.exports = {
     titleTemplate: '%s · Joshua Talks',
     image: '/images/J-logo.png',
     author: 'Joshua Talks',
-    description: 'Gatsby starter to quickly setup your portfolio and boost it to the next level.',
+    description: 'Gatsby Portfolio',
     url: 'https://github.com/Josh-Talks',
     paginationPageSize: 4, // Amount of posts displayed per listing page.
   },

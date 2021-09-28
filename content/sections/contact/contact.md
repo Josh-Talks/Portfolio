@@ -1,6 +1,6 @@
 ---
 phone: '+44 7851823348'
-email: 'joshuatalks96@gmail.com'
+email: 'joshuatalks1@gmail.com'
 address: 'Gonville and Caius College, Trinity Street, Cambridge, CB2 1TA'
 ---
 

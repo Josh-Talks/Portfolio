@@ -10,9 +10,9 @@ export const socialIconList = [
     link: 'https://github.com/Josh-Talks',
   },
   {
-    name: 'instagram',
-    prefix: 'fab',
-    link: 'https://www.instagram.com/talksjoshua/'
+    name: 'camera-retro',
+    prefix: 'fas',
+    link: 'https://joshuatalks96.wixsite.com/photography'
   },
 
   // Add further social links with the icon of choice and link here

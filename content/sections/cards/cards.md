@@ -1,5 +1,19 @@
 ---
 cards:
+  - label: University of Cambridge
+    icon: dna
+    prefix: fas
+    description: "
+    <p><strong>4th Year Masters Project, DNA Alignment for Molecular Storage </strong>\n<em>Oct 2021 - Ongoing</em></p>
+    <ul>
+      <li>
+        As technology advances it will become feasible to store data at the molecular level. In a world with growing information requirements, technologies that increase the data density per volume/mass may help us reduce the energetic and geographical footprint associated with data storage. A practical information encoding/decoding system for storing data on DNA has been proposed that combines a technique known as watermark coding with standard DNA alignment tools. However, the prevalent DNA alignment tools (BLAST, BWA) do not perform with the increased substitution rate resulting from its use. I therefore aim to study those alignment tools and investigate how they can be modified to cope with an increased rate of substitutions. 
+      </li>
+      <li>
+        Applying Information theory, statistical methods and programming to investigate and implement a new alignment tool.  
+      </li>
+    </ul>
+    "
   - label: Oxford Gene Technology
     icon: laptop-code
     prefix: fas

@@ -24,7 +24,7 @@ cards:
         Evaluating and Implementing Artificial Intelligence Algorithms for single cell flow-FISH cytometry (Fluorescent in-situ hybridization) image analysis used for medical diagnosis of genetic disorders such as Leukaemia.  
       </li>
       <li>
-        Working within the R&D team on semantic segmentation of image data; I implemented and compared several approaches; Combining automated annotation with a Convolutional Neural Network, Implemetning a CNN in a semi-supervised loop that combined clustering analysis to improve semi-supervised classification. 
+        Working within the R&D team on semantic segmentation of image data; I implemented and compared several approaches; Combining automated annotation with a Convolutional Neural Network, Implementing a CNN in a semi-supervised loop that combined clustering analysis to improve semi-supervised classification. 
       </li>
       <li>
         Over the project I conducted a literature review, reading papers from many areas of image analysis from Clustering and Deep Neural Nets to thresholding and image processing. I coded throughout the project in Python, extensively using Keras, Scikit-learn, OpenCV and Pandas while implementing different research papers and developing an automated annotation and CNN prediction pipeline.
